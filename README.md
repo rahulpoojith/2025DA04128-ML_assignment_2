@@ -2,6 +2,9 @@
 
 **BITS WILP · M.Tech (AIML/DSE) · Machine Learning**
 
+**Rahul P**
+**2025DA04128**
+
 ---
 
 ## a. Problem Statement
@@ -63,8 +66,8 @@ and is what the Streamlit app uses by default.
 
 ## c. GitHub Repository Link
 
-> **TODO:** `https://github.com/<your-username>/<your-repo-name>`
-> _(Push this project folder to a new GitHub repo and paste the link here before submitting.)_
+> **TODO:** `https://github.com/rahulpoojith/2025DA04128-ML_assignment_2`
+
 
 ---
 
@@ -136,7 +139,7 @@ python train_models.py
 
 To run the app locally:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
@@ -144,7 +147,7 @@ streamlit run app.py
 ## Live Streamlit App Link
 
 > **TODO:** `https://<your-app-name>.streamlit.app`
-> _(Deploy via Streamlit Community Cloud → New App → select this repo → main branch → app.py, then paste the link here.)_
+
 
 ## Streamlit App Features
 - **CSV upload** — upload any test CSV with the same 12 feature columns (optionally include the `ValueSegment` column for evaluation)
