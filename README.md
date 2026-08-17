@@ -66,7 +66,7 @@ and is what the Streamlit app uses by default.
 
 ## c. GitHub Repository Link
 
-> **TODO:** `https://github.com/rahulpoojith/2025DA04128-ML_assignment_2`
+> **TODO:** <https://github.com/rahulpoojith/2025DA04128-ML_assignment_2>
 
 
 ---
@@ -146,7 +146,7 @@ python -m streamlit run app.py
 
 ## Live Streamlit App Link
 
-> **TODO:** `https://bitswilp2025da04128mlassignment2.streamlit.app`
+> <https://bitswilp2025da04128mlassignment2.streamlit.app>
 
 
 ## Streamlit App Features
