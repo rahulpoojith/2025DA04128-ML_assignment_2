@@ -146,7 +146,7 @@ python -m streamlit run app.py
 
 ## Live Streamlit App Link
 
-> **TODO:** `https://<your-app-name>.streamlit.app`
+> **TODO:** `https://bitswilp2025da04128mlassignment2.streamlit.app`
 
 
 ## Streamlit App Features
