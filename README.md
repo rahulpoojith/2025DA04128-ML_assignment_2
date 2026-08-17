@@ -67,7 +67,7 @@ and is what the Streamlit app uses by default.
 ## c. GitHub Repository Link
 
 > **TODO:** `https://github.com/rahulpoojith/2025DA04128-ML_assignment_2`
-> _(Push this project folder to a new GitHub repo and paste the link here before submitting.)_
+
 
 ---
 
@@ -147,7 +147,7 @@ python -m streamlit run app.py
 ## Live Streamlit App Link
 
 > **TODO:** `https://<your-app-name>.streamlit.app`
-> _(Deploy via Streamlit Community Cloud → New App → select this repo → main branch → app.py, then paste the link here.)_
+
 
 ## Streamlit App Features
 - **CSV upload** — upload any test CSV with the same 12 feature columns (optionally include the `ValueSegment` column for evaluation)
