@@ -2,6 +2,9 @@
 
 **BITS WILP · M.Tech (AIML/DSE) · Machine Learning**
 
+** Rahul P **
+** 2025DA04128 **
+
 ---
 
 ## a. Problem Statement
